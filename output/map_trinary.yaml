@@ -1,0 +1,10 @@
+image: map.png
+resolution: 0.1
+origin:
+- -3.5240249633789062
+- -12.29736328125
+- 0.0
+mode: trinary
+negate: 0
+free_thresh: 0.196
+occupied_thresh: 0.65
