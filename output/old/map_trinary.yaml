@@ -1,8 +1,8 @@
 image: map.png
-resolution: 0.4
+resolution: 0.1
 origin:
-- 440725.578125
-- 5258756.5
+- -3.5240249633789062
+- -12.29736328125
 - 0.0
 mode: trinary
 negate: 0

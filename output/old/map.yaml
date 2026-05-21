@@ -1,0 +1,8 @@
+image: map.png
+resolution: 0.1
+origin:
+- -3.5240249633789062
+- -12.29736328125
+- 0.0
+mode: raw
+negate: 0
